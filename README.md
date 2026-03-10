@@ -24,7 +24,7 @@
 
 ---
 
-![고양이](https://blog.naver.com/miryonae/223837766990?photoView=0/400/300)
+![고양이]("C:\Users\82109\Pictures\고양이.png"/400/300)
 
 ## 간단한 코드 예시
 

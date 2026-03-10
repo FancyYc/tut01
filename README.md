@@ -33,3 +33,5 @@ def greet(name):
     print(f"안녕하세요, {name}님!")
 
 greet("원유청")
+
+![고양이](https://placekitten.com/400/300)

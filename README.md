@@ -24,6 +24,8 @@
 
 ---
 
+![고양이](https://placekitten.com/400/300)
+
 ## 간단한 코드 예시
 
 다음은 Python의 간단한 코드입니다.
@@ -34,4 +36,3 @@ def greet(name):
 
 greet("원유청")
 
-![고양이](https://placekitten.com/400/300)
